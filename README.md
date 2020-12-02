@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista harjoitus
+Kauppalista harjoitus.
